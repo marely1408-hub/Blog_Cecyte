@@ -1,0 +1,64 @@
+ /* Estilos generales */
+ body {
+    font-family: 'Poppins', sans-serif; /* Fuente elegante */
+    margin: 0;
+    padding: 0;
+    background-color: #a3facf;
+    color: #000000;
+    text-align: center;
+}
+
+/* Estilo del encabezado */
+.titulo {
+    background-color: #ffffff;
+    color: rgb(30, 98, 64);
+    padding: 40px;
+    margin: 0;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* Contenedor principal */
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    background: -webkit-linear-gradient( #ffffff, #ffffff);
+    border-radius: 10px;
+}
+
+/* Párrafos */
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Texto en negrita */
+h2 {
+    display: block;
+    margin-top: 15px;
+    font-size: 30px;
+    color: #007B3E;
+}
+
+/*Margen a una imagen*/
+.Imagen{
+    box-shadow: 0 0 20px rgb(91, 255, 170)
+}
+ul {
+    text-align: left;
+}
+/*Codigo para hacer un boton*/
+.boton {
+    background: #070e08;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+  }
